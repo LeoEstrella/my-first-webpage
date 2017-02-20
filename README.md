@@ -8,4 +8,4 @@ _This Project contains practice lessons from [**Epicodus**](https://www.epicodus
 * CSS
 * Javascript
 * And a lot more
-## _Copyright (c) 2017 Leo Estrella, Github_
+# _Copyright (c) 2017, Leo Estrella, Github_
